@@ -4,5 +4,6 @@ Metadata used in the manuscript:
 * events.csv - event information
 * sWavePicks.csv - S-wave arrival times
 
-
-doi 10.5281/zenodo.7707953
+Code used for the manuscript:
+* cross_correlation_method.py - the cross-correlation method. produces:
+* * SWS_CC.csv
