@@ -6,4 +6,4 @@ Metadata used in the manuscript:
 
 Code used for the manuscript:
 * cross_correlation_method.py - the cross-correlation method. produces:
-* * SWS_CC.csv
+  * SWS_CC.csv
